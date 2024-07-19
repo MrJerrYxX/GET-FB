@@ -1,2 +1,2 @@
 import os
-os.system("python T0KEN.py")
+os.system("python T0KENN.py")
